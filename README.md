@@ -1,19 +1,10 @@
-# vue-cli-demo
+# 使用vue-cli建置Vue的專案
 
-## Project setup
-```
-npm install
-```
+成果如下，用vue Router設定三個分頁，下圖為Home分頁
+![截圖 2023-05-21 下午8 55 23](https://github.com/Daisy116/vue-cli/assets/52897966/e07423e2-d4a1-4b5d-a58b-10530f1332d9)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+下圖為About分頁，練習Nested Routes(嵌套路由)
+![截圖 2023-05-21 下午8 58 29](https://github.com/Daisy116/vue-cli/assets/52897966/69e1800b-de4b-4b52-bb64-58b844bf965f)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+下圖為課程分頁，練習使用Axios呼叫API，取得API資料後呈現出來
+![截圖 2023-05-21 下午9 00 01](https://github.com/Daisy116/vue-cli/assets/52897966/1308803b-0c0e-4f13-a154-7e1b830e7959)
